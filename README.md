@@ -1,5 +1,5 @@
 # the-weather-for-better
-
+A website that you can check the weather all around the world, giving you the temperature , wind speeds, humidity and uv index and the next 5 day forecast
 ## Installation
 
 
@@ -11,12 +11,13 @@ Install the-weather-for-better using this command in bash terminal or click this
  
 ## Tech Stack
 
-**Client:** HTML CSS JavaScript 
+**Client:** HTML CSS JavaScript Bootstrap JQuery 
 
 
 
 
 ## Known Bugs
+this project is incomplete
 
 
 ## Contacts
